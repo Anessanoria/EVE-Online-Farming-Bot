@@ -16,14 +16,12 @@ EVEBot is a fully automated mining and combat assistance software for EVE Online
 
 ## 🎁 Screenshots
 
-### Top Row:
+###
 <p align="center">
   <img src="https://github.com/user-attachments/assets/129ea0cd-4afd-4766-be57-4f579fd56eac" width="30%" />
   <img src="https://github.com/user-attachments/assets/5b073eb0-8029-4c6c-8bf8-a5f02083c3ea" width="30%" />
   <img src="https://github.com/user-attachments/assets/05cf78c9-362b-4bf7-ad86-5efc5e9cc007" width="30%" />
 </p>
-
-### Bottom Row:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ea07ae43-5c34-4c4a-a43f-f5356aaf1243" width="45%" />
   <img src="https://github.com/user-attachments/assets/ac33dfd8-15c7-4ba9-bcae-9f262234f4ce" width="45%" />
